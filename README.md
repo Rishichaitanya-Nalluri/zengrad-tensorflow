@@ -31,6 +31,4 @@ model.compile(
 
 ## License
 
-ZenGrad_TensorFlow is released under the [Apache License 2.0](https://github.com/Rishichaitanya-Nalluri/zengrad-tensorflow/blob/main/LICENSE).# zengrad-tensorflow
-# zengrad-tensorflow
-# zengrad-tensorflow
+ZenGrad_TensorFlow is released under the [Apache License 2.0](https://github.com/Rishichaitanya-Nalluri/zengrad-tensorflow/blob/main/LICENSE).
